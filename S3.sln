@@ -2,6 +2,15 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.MinIo.Api", "src\S3.MinIo.Api\S3.MinIo.Api.csproj", "{99481918-5791-4E6C-82AF-BA7F5B7828B2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{047E048B-EFC7-446E-B153-36857C91A857}"
+	ProjectSection(SolutionItems) = preProject
+		.env.example = .env.example
+		.gitignore = .gitignore
+		Makefile = Makefile
+		readme.md = readme.md
+		docker-compose.infrastructure.yml = docker-compose.infrastructure.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
