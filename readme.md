@@ -2,6 +2,8 @@
 
 ## MinIo
 
+Run infrastructure:
+
 ```bash
 mkdir -p ~/minio/data
 make run-infrastructure
