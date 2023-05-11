@@ -2,7 +2,7 @@ using System;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace S3.Minio.Api.Controllers;
+namespace S3.MinIo.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

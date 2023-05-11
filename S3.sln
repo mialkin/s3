@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Minio.Api", "src\S3.Minio.Api\S3.Minio.Api.csproj", "{99481918-5791-4E6C-82AF-BA7F5B7828B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.MinIo.Api", "src\S3.MinIo.Api\S3.MinIo.Api.csproj", "{99481918-5791-4E6C-82AF-BA7F5B7828B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
