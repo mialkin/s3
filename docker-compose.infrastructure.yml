@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   minio:
-    image: quay.io/minio/minio
+    image: quay.io/minio/minio:RELEASE.2023-05-04T21-44-30Z
     container_name: minio
     environment:
       MINIO_ROOT_USER: ROOTUSER
