@@ -409,3 +409,4 @@ FodyWeavers.xsd
 
 # Docker env file https://docs.docker.com/compose/env-file
 .env
+volumes

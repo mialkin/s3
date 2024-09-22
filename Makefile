@@ -4,8 +4,8 @@ copy-env:
 
 .PHONY: run-infrastructure
 run-infrastructure: copy-env
-	docker-compose -f docker-compose.infrastructure.yml up
+	docker compose --file compose.yaml up
 
 .PHONY: shutdown-infrastructure
 shutdown-infrastructure:
-	docker-compose -f docker-compose.infrastructure.yml down
+	docker compose --file compose.yaml down

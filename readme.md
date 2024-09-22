@@ -2,11 +2,12 @@
 
 ## MinIo
 
+[↑ MinIO](https://min.io/docs/minio/container/index.html).
+
 Run infrastructure:
 
 ```bash
-mkdir -p ~/minio/data
 make run-infrastructure
 ```
 
-Navigate to: <http://localhost:9090>.
+Navigate to MinIO Console: <http://localhost:9090>.
